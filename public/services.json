@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "discription": "ahakdh ka a hjkeuh kjahrnah jkahf",
+        " img": "https: //ibb.co/R6gW87w"
+    },
+    {
+        "id": 2,
+        "name": "Oli Changing ",
+        " price": 2000,
+        " time": 2,
+        "discription": "ahakdh ka a hjkeuh kjahrnah jkahf",
+        " img": "https://ibb.co/G5xhNx9"
+    },
+    {
+        "id": 3,
+        "name": "Brake Reparing",
+        "price": 2000,
+        "time": 2,
+        "discription": "ahakdh ka a hjkeuh kjahrnah jkahf",
+        "img": "https://ibb.co/Nj1wggv"
+    },
+    {
+        "id": 4,
+        "name": "hljfjf",
+        "price": 2000,
+        "time": 2,
+        "discription": "ahakdh ka a hjkeuh kjahrnah jkahf",
+        "img": "https://ibb.co/9WrNRbb"
+    },
+    {
+        "id": 5,
+        "name": "Replace",
+        "price": 2000,
+        "time": 2,
+        "discription": "ahakdh ka a hjkeuh kjahrnah jkahf",
+        "img": "https://ibb.co/98PDgV4"
+    },
+    {
+        "id": 6,
+        "name": "Replace T",
+        "price": 2000,
+        "time": 2,
+        "discription": "ahakdh ka a hjkeuh kjahrnah jkahf",
+        "img": "https://ibb.co/5sfCrBL"
+    }
+]
